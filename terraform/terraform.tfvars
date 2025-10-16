@@ -1,0 +1,5 @@
+aws_region = "us-east-2"
+instance_type = "t3.micro"
+ami = "ami-0c5ddb3560e768732"   
+public_key_path = "~/.ssh/tf_demo_key.pub"
+key_name = "tf-demo-key"

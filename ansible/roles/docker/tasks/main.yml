@@ -1,0 +1,5 @@
+# (Left intentionally minimal — install steps done in playbook)
+# If you want role-specific tasks, place them here.
+- name: Docker role placeholder
+  debug:
+    msg: "Docker role executed"
